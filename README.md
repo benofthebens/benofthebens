@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **benofthebens/benofthebens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+I focus on distributed systems, low-level programming, and building reliable cloud services and scalable databases. My primary expertise is in databases (Postgres, Oracle, SQLite, SQL Server) and backend microservices—especially with Java/Spring Boot.
+
+I’m comfortable working across Python, Ruby, C++, C#, JavaScript/TypeScript, and Rust. My current main projects include:
+- A finance microservices platform built in Spring Boot
+- A Windows desktop chat application in C++
+- Leading AI development (PyTorch) at Project Echo—a multidisciplinary hearing aid initiative
+
+I'm always learning, especially in C++ and advanced distributed systems. I also speak conversational Chinese.
